@@ -170,6 +170,6 @@ Este projeto demonstra a aplicação de conceitos fundamentais de desenvolviment
 *   **Separação de Camadas (Clean Architecture):** Garante que a lógica de negócio seja independente da infraestrutura, tornando o sistema mais flexível e adaptável a mudanças.
 *   **Bcrypt para Senhas:** Utiliza um algoritmo robusto para armazenar senhas de forma segura, protegendo os dados dos usuários.
 
-## 📝 Licença
+## 📝 Autor
 
-Este projeto foi desenvolvido para fins educacionais.
+Este projeto foi desenvolvido por Mateus Vitor.
