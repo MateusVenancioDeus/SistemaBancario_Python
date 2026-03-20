@@ -1,0 +1,4 @@
+# requirements.txt
+mysql-connector-python
+bcrypt
+customtkinter
